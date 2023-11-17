@@ -7,10 +7,10 @@ A simple command-line implementation of the classic Rock, Paper, Scissors game i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/your-username/rock.git
 
    #bash
-    cd rock-paper-scissors
+    cd rock
 #Features
   1.Player vs. Computer gameplay.
   2.Random computer moves.
